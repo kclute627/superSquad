@@ -24,7 +24,7 @@ class SquadStats extends Component {
         const intelligence = (a) => {
             let intelligence = 0;
             a.forEach(cur => intelligence += cur.intelligence);
-            return intelligence
+            return intelligenceb 
         }
 
         return(
